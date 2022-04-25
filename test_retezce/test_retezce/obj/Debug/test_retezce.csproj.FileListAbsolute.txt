@@ -1,0 +1,10 @@
+C:\Users\syrovym.05\source\repos\test_retezce\test_retezce\bin\Debug\test_retezce.exe.config
+C:\Users\syrovym.05\source\repos\test_retezce\test_retezce\bin\Debug\test_retezce.exe
+C:\Users\syrovym.05\source\repos\test_retezce\test_retezce\bin\Debug\test_retezce.pdb
+C:\Users\syrovym.05\source\repos\test_retezce\test_retezce\obj\Debug\test_retezce.csprojAssemblyReference.cache
+C:\Users\syrovym.05\source\repos\test_retezce\test_retezce\obj\Debug\test_retezce.Form1.resources
+C:\Users\syrovym.05\source\repos\test_retezce\test_retezce\obj\Debug\test_retezce.Properties.Resources.resources
+C:\Users\syrovym.05\source\repos\test_retezce\test_retezce\obj\Debug\test_retezce.csproj.GenerateResource.cache
+C:\Users\syrovym.05\source\repos\test_retezce\test_retezce\obj\Debug\test_retezce.csproj.CoreCompileInputs.cache
+C:\Users\syrovym.05\source\repos\test_retezce\test_retezce\obj\Debug\test_retezce.exe
+C:\Users\syrovym.05\source\repos\test_retezce\test_retezce\obj\Debug\test_retezce.pdb
